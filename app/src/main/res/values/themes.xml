@@ -3,11 +3,12 @@
     <style name="Theme.TestliquidSlide1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
 
-        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:statusBarColor" tools:targetApi="l">#106873</item>
         <!-- Customize your theme here. -->
     </style>
     <style name="SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
         <item name="android:windowBackground">@drawable/splash_img</item>
-        <item name="android:statusBarColor">#2acf1b</item>
+        <item name="android:statusBarColor">#106873</item>
     </style>
+
 </resources>
